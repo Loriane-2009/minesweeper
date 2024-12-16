@@ -1,7 +1,5 @@
 @import '~bootstrap/dist/css/bootstrap.min.css';
-body{
-  background-color: #D3D3D3;
-}
+
 table#game {
   border-collapse: collapse;
 }
@@ -32,7 +30,7 @@ table#game td .unknown {
 }
 
 table#game td .uncovered {
-  background-color: #eeeeee;
+  background-color: #aaa1d1;
 }
 
 table#game td .bomb img {
